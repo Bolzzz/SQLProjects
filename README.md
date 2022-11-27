@@ -1,4 +1,4 @@
-# SQLProjects
+# SQL Portfolio Projects
 This repo contains all the projects, carried out using SQL, which should make up my portfolio.
 
 Here, I follow @AlexTheAnalyst's steps in querying the data on Covid deaths and vaccinations:
